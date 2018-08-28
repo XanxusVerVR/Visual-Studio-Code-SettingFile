@@ -1,0 +1,24 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontFamily": "Menlo",
+    "editor.tabSize": 4,
+    "editor.cursorStyle": "line",
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.autoClosingBrackets": false,
+    "editor.cursorWidth": 3,
+    "editor.dragAndDrop": false,
+    "editor.links": false,
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#923e07",
+        "editor.selectionHighlightBackground": "#447c42"
+    },
+    "explorer.confirmDelete": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.minimap.showSlider": "always",
+    "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home",
+    "files.trimTrailingWhitespace": true,
+    "editor.renderIndentGuides": false,
+    "explorer.confirmDragAndDrop": false,
+    "window.zoomLevel": 0
+}
