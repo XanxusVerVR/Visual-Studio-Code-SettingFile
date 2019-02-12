@@ -1,24 +1,36 @@
 {
     "editor.fontSize": 18,
-    "editor.fontFamily": "Menlo",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "400",
     "editor.tabSize": 4,
     "editor.cursorStyle": "line",
-    "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.autoClosingBrackets": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
     "editor.cursorWidth": 3,
     "editor.dragAndDrop": false,
     "editor.links": false,
     "workbench.colorCustomizations": {
         "editor.selectionBackground": "#923e07",
-        "editor.selectionHighlightBackground": "#447c42"
+        "editor.selectionHighlightBackground": "#426b3f"
     },
     "explorer.confirmDelete": false,
     "files.trimTrailingWhitespace": true,
     "editor.minimap.showSlider": "always",
     "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home",
-    "files.trimTrailingWhitespace": true,
     "editor.renderIndentGuides": false,
     "explorer.confirmDragAndDrop": false,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "nginx-conf-hint.syntax": "sublime",
+    "files.trimFinalNewlines": true,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "files.autoSave": "afterDelay",
+    "workbench.sideBar.location": "left",
+    "[html]": {
+
+    },
+    "workbench.colorTheme": "Dracula",
+    "explorer.sortOrder": "type",
+    "editor.fontLigatures": true
 }
