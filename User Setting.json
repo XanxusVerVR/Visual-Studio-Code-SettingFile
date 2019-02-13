@@ -4,9 +4,9 @@
     "editor.fontWeight": "400",
     "editor.tabSize": 4,
     "editor.cursorStyle": "line",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.autoClosingBrackets": "never",
-    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoSurround": "never",
     "editor.cursorWidth": 3,
     "editor.dragAndDrop": false,
     "editor.links": false,
@@ -27,10 +27,11 @@
     "editor.renderWhitespace": "none",
     "files.autoSave": "afterDelay",
     "workbench.sideBar.location": "left",
-    "[html]": {
-
-    },
-    "workbench.colorTheme": "Dracula",
+    "[html]": {},
     "explorer.sortOrder": "type",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.titleBarStyle": "native",
+    "workbench.colorTheme": "Dracula",
+    "workbench.settings.editor": "json"
 }
