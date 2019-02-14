@@ -33,5 +33,6 @@
     "workbench.iconTheme": "material-icon-theme",
     "window.titleBarStyle": "native",
     "workbench.colorTheme": "Dracula",
-    "workbench.settings.editor": "json"
+    "workbench.settings.editor": "json",
+    "editor.suggestSelection": "recentlyUsed"
 }
