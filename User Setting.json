@@ -1,6 +1,6 @@
 {
     "editor.fontSize": 18,
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Fira Code,Monaco,Menlo,Consolas,'Droid Sans Mono','Inconsolata','Courier New'",
     "editor.fontWeight": "400",
     "editor.tabSize": 4,
     "editor.cursorStyle": "line",
