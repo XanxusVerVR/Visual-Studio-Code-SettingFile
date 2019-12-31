@@ -34,5 +34,6 @@
     "workbench.colorTheme": "Dracula",
     "workbench.settings.editor": "json",
     "editor.suggestSelection": "recentlyUsed",
-    "json.maxItemsComputed": 25000
+    "json.maxItemsComputed": 25000,
+    "editor.maxTokenizationLineLength": 50000
 }
