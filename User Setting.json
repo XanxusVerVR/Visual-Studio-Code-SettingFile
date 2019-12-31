@@ -33,5 +33,6 @@
     "window.titleBarStyle": "native",
     "workbench.colorTheme": "Dracula",
     "workbench.settings.editor": "json",
-    "editor.suggestSelection": "recentlyUsed"
+    "editor.suggestSelection": "recentlyUsed",
+    "json.maxItemsComputed": 25000
 }
