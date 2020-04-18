@@ -35,5 +35,10 @@
     "workbench.settings.editor": "json",
     "editor.suggestSelection": "recentlyUsed",
     "json.maxItemsComputed": 25000,
-    "editor.maxTokenizationLineLength": 50000
+    "editor.maxTokenizationLineLength": 50000,
+    "explorer.sortOrder": "type",
+    "extensions.ignoreRecommendations": false,
+    "[json]": {
+        "editor.formatOnSave": true
+    }
 }
