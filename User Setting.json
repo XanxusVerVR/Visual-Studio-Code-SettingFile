@@ -16,8 +16,8 @@
     },
     "explorer.confirmDelete": false,
     "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline" : true,
     "editor.minimap.showSlider": "always",
-    "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home",
     "editor.renderIndentGuides": false,
     "explorer.confirmDragAndDrop": false,
     "window.zoomLevel": 0,
@@ -31,14 +31,16 @@
     "editor.fontLigatures": true,
     "workbench.iconTheme": "material-icon-theme",
     "window.titleBarStyle": "native",
-    "workbench.colorTheme": "Dracula",
     "workbench.settings.editor": "json",
     "editor.suggestSelection": "recentlyUsed",
     "json.maxItemsComputed": 25000,
     "editor.maxTokenizationLineLength": 50000,
     "explorer.sortOrder": "type",
-    "extensions.ignoreRecommendations": false,
+    "extensions.ignoreRecommendations": true,
     "[json]": {
         "editor.formatOnSave": true
-    }
+    },
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "yaml.completion": true,
+    "yaml.validate": true
 }
