@@ -12,7 +12,8 @@
     "editor.links": false,
     "workbench.colorCustomizations": {
         "editor.selectionBackground": "#923e07",
-        "editor.selectionHighlightBackground": "#426b3f"
+        "editor.selectionHighlightBackground": "#426b3f",
+        "minimapSlider.hoverBackground": "#e6111128"
     },
     "explorer.confirmDelete": false,
     "files.trimTrailingWhitespace": true,
@@ -42,5 +43,10 @@
     },
     "workbench.colorTheme": "Material Theme Darker High Contrast",
     "yaml.completion": true,
-    "yaml.validate": true
+    "yaml.validate": true,
+    "editor.rulers": [
+        4,
+        8
+    ],
+    "editor.largeFileOptimizations": false
 }
