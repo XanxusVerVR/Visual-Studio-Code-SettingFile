@@ -1,5 +1,5 @@
 {
-    "editor.fontSize": 18,
+    "editor.fontSize": 16,
     "editor.fontFamily": "Fira Code,Monaco,Menlo,Consolas,'Droid Sans Mono','Inconsolata','Courier New'",
     "editor.fontWeight": "400",
     "editor.tabSize": 4,
@@ -22,7 +22,6 @@
     "editor.renderIndentGuides": false,
     "explorer.confirmDragAndDrop": false,
     "window.zoomLevel": 0,
-    "nginx-conf-hint.syntax": "sublime",
     "files.trimFinalNewlines": true,
     "editor.renderControlCharacters": false,
     "editor.renderWhitespace": "none",
@@ -37,16 +36,21 @@
     "json.maxItemsComputed": 25000,
     "editor.maxTokenizationLineLength": 50000,
     "explorer.sortOrder": "type",
-    "extensions.ignoreRecommendations": true,
+    "extensions.ignoreRecommendations": false,
     "[json]": {
         "editor.formatOnSave": true
     },
-    "workbench.colorTheme": "Material Theme Darker High Contrast",
     "yaml.completion": true,
-    "yaml.validate": true,
+    "yaml.format.enable":true,
     "editor.rulers": [
+        0,
         4,
         8
     ],
-    "editor.largeFileOptimizations": false
+    "workbench.colorTheme": "Dracula",
+    "redhat.telemetry.enabled": true,
+    "yaml.maxItemsComputed": 10000,
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.enabled": false
 }
